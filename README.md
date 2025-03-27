@@ -23,19 +23,15 @@ npm 9.0.0 ou superior
 Conta na UniEVANGÉLICA com permissão para acessar o sistema
 
 Instalação:
-1-Clone o repositório:
-git clone https://github.com/seu-usuario/sistema-reservas-uniev.git
-cd sistema-reservas-uniev
-
-2-Instalação de dependências:
+1-Instalação de dependências:
 npm install
 
-3-Configuração das variáveis de ambiente:
+2-Configuração das variáveis de ambiente:
 Criar um arquivo .env na raiz do projeto
 Copiar o conteúdo de .env.example
 Preencher com as configurações do seu ambiente
 
-4-Inicie o servidor de desenvolvimento:
+3-Inicie o servidor de desenvolvimento:
 npm run dev
 
 Funcionalidades:
